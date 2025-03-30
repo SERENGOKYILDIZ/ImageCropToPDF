@@ -1,2 +1,5 @@
-./target_images/*
-./source_images/*
+target_images/*
+!target_images/.gitkeep
+
+source_images/*
+!source_images/.gitkeep
